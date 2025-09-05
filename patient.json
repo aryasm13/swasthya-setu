@@ -1,0 +1,68 @@
+[
+  {
+    "name": "yash",
+    "age": "19",
+    "disease": "knee pain",
+    "doctor": "asm1323"
+  },
+  {
+    "name": "chaitanya",
+    "age": "22",
+    "disease": "coronary heart disease",
+    "doctor": "asm1323"
+  },
+  {
+    "name": "joseph",
+    "age": "19",
+    "disease": "pneumonia",
+    "doctor": "asm1323"
+  },
+  {
+    "name": "siddhart",
+    "age": "19",
+    "disease": "migrane",
+    "doctor": "asm1323"
+  },
+  {
+    "name": "paul",
+    "age": "17",
+    "disease": "cancer",
+    "doctor": "asm1323"
+  },
+  {
+    "name": "vedansh",
+    "age": "20",
+    "disease": "heart diseses",
+    "doctor": "yash123"
+  },
+  {
+    "name": "nakul",
+    "age": "18",
+    "disease": "stomchache",
+    "doctor": "yash123"
+  },
+  {
+    "name": "arya",
+    "age": "18",
+    "disease": "running noe",
+    "doctor": "123ved"
+  },
+  {
+    "name": "dhruv",
+    "age": "12",
+    "disease": "cold",
+    "doctor": "123ved"
+  },
+  {
+    "name": "dhru",
+    "age": "21",
+    "disease": "central obesity",
+    "doctor": "ssm13"
+  },
+  {
+    "name": "fgretrth",
+    "age": "12",
+    "disease": "dfbg",
+    "doctor": "asm311323"
+  }
+]
